@@ -1,5 +1,11 @@
 # rusty_crypto_key
 
+> **This repository has moved.** `rusty_crypto_key` now lives at
+> [`crates/rusty_crypto_key`](https://github.com/Rusty-Mill/rusty_mill/tree/main/crates/rusty_crypto_key)
+> in the [`rusty_mill`](https://github.com/Rusty-Mill/rusty_mill) monorepo, with full commit
+> history preserved. This repository is kept for historical reference and is no longer
+> developed; please open issues and pull requests against `rusty_mill` instead.
+
 [![CI](https://github.com/baileyrd/rusty_crypto_key/actions/workflows/ci.yml/badge.svg)](https://github.com/baileyrd/rusty_crypto_key/actions/workflows/ci.yml)
 
 A zeroize-on-drop key storage micro-crate for Rust.
